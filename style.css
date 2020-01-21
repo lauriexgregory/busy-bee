@@ -1,0 +1,83 @@
+body {
+    margin: 0 auto;
+    background-color: #E9E8EA;
+}
+
+@font-face {
+    font-family: "gotham";
+    src: url('gothambold.otf');
+    font-style: normal;
+}
+
+.first {
+    background-color: #FFCC00;
+    height: 500px;
+}
+
+.main {
+    color: #3C3C3B;
+    font-family: "gotham";
+    text-align: center;
+    font-size: 25px
+}
+
+.main2 {
+    color: #3C3C3B;
+    font-family: "gotham";
+    padding-left: 10%;
+    padding-top: 10%;
+    font-size: 20px
+}
+
+.main3 {
+    color: #3C3C3B;
+    font-family: "gotham";
+    padding-left: 10%;
+    padding-top: %;
+    font-size: 15px
+}
+
+.main5 {
+    color: white;
+    text-align: center;
+    font-family: "gotham";
+    padding-left: 10%;
+    padding-top: 1%;
+    font-size: 20px
+}
+
+.logo {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 50px
+}
+
+.second {
+    height: 850px;
+}
+
+.third {
+    padding-top: 0%;
+    height: 100px;
+    width: 100%;
+    background-color: #FFCC00;
+}
+
+.mockup {
+    padding-bottom: 10%;
+}
+
+.footer {
+    position: absolute;
+    padding-top: 0%;
+    height: 100px;
+    width: 100%;
+    background-color: #FFCC00;
+    color: white;
+    text-align: center;
+    font-family: "gotham";
+    padding-top: 1%;
+    font-size: 20px
+}
